@@ -19,4 +19,4 @@ O "Code Club Burger Project" é um projeto de front-end que visa criar um site i
 - Formulário de pedido com informações do cliente.
 
 
-Para este projeto também foi desenvolvido o Back-End, cujo o nome projeto no github está como [Project-Hamburgueria-Nodejs](https://github.com/mfjaconis/Code-Club-Burger-Project)
+Para este projeto também foi desenvolvido o Back-End, cujo o nome projeto no github está como [Project-Hamburgueria-Nodejs](https://github.com/mfjaconis/Project-Hamburgueria-Nodejs)
